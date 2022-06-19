@@ -1,0 +1,23 @@
+{
+  "name": "simplcolor",
+  "version": "1.0.0",
+  "description": "📝 A simple and VERY lightweight ANSI color helper for Typescript and Javascript.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallMeEchoCodes/simplcolor.git"
+  },
+  "keywords": [
+    "color",
+    "ansi",
+    "console",
+    "typescript",
+    "javascript",
+    "simple",
+    "lightweight",
+    "chalk",
+    "colorette"
+  ],
+  "author": "CallMeEcho",
+  "license": "MIT"
+}

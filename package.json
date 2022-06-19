@@ -1,6 +1,6 @@
 {
   "name": "simplcolor",
-  "version": "1.0.0",
+  "version": "1.0.0patch1",
   "description": "🎉 A simple and VERY lightweight ANSI color helper for Typescript and Javascript.",
   "main": "./index.js",
   "repository": {

@@ -3,7 +3,7 @@
 > 🎉 A simple and VERY lightweight ANSI color helper for Typescript and Javascript.
 
 [![npm version](https://img.shields.io/npm/v/simplcolor)](https://www.npmjs.com/package/simplcolor) [![license](https://img.shields.io/github/license/CallMeEchoCodes/simplcolor)](https://github.com/CallMeEchoCodes/simplcolor/blob/master/LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/CallMeEchoCodes/simplcolor/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-<img src="https://i.imgur.com/YhwCp4c.png" />
+<img src="https://i.imgur.com/XcSr0KO.png" />
 
 
 ## 🚩 Table of Contents
